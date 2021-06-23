@@ -3,7 +3,7 @@
 
 AUTHOR = 'tipishev'
 SITENAME = 'Eurika.se'
-SITEURL = ''
+SITEURL = 'https://tipishev.github.io'
 
 PATH = 'content'
 
