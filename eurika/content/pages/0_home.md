@@ -1,9 +1,9 @@
-Title: Эврика
+Title: Главная
 Slug: home
 URL:
 save_as: index.html
 
-![Alt Text]({static}/images/kids.png)
+![Main Image]({static}/images/kids.png)
 
 # Новости
 27.05.2021 - Oсеннее полугодие 29/8 — 28/11 2021 г.
