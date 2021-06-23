@@ -3,6 +3,8 @@ Category: Главная
 Summary: Главная страница
 Slug: main
 
+![Alt Text]({static}/images/kids.png)
+
 # Новости
 27.05.2021 - Oсеннее полугодие 29/8 — 28/11 2021 г.
 
