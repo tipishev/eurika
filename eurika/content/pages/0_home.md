@@ -14,7 +14,7 @@ save_as: index.html
 - Мы познаем мир (4-5,5-6,6-7 лет)
 - [Хочу все знать (8-13 лет)](<{filename}../courses/want_to_know.md>)
 - Русский язык
-- Шахматы
+- [Шахматы](<{filename}../courses/chess.md>)
 
 # Студии
 
