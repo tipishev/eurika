@@ -1,6 +1,7 @@
 Title: Курсы
 Category: Курсы
 Summary: Наши курсы
+Date: 2021-06-23
 Slug: courses
 
 # Мы познаем мир (2-4 года)

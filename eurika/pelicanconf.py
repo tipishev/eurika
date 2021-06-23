@@ -34,3 +34,9 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 TYPOGRIFY = True
+
+# to keep Main page first in navigation bar
+PAGE_ORDER_BY = 'date'
+
+THEME = 'notmyidea'
+#  CSS_FILE = 'wide.css'

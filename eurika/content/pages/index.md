@@ -1,6 +1,7 @@
 Title: Эврика
 Category: Главная
 Summary: Главная страница
+Date: 2021-06-20
 Slug: main
 
 ![Alt Text]({static}/images/kids.png)
