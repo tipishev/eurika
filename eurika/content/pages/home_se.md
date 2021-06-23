@@ -1,9 +1,6 @@
 Title: Eurika
-Category: Huvudsidan
-Summary: Huvudsidan
-Slug: main
+Slug: home
 Lang: se
-Date: 2021-06-20
 
 ![Alt Text]({static}/images/kids.png)
 

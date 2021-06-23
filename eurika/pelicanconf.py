@@ -3,7 +3,7 @@
 
 AUTHOR = 'tipishev'
 SITENAME = 'Eurika.se'
-SITEURL = 'https://tipishev.github.io'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -36,7 +36,11 @@ DEFAULT_PAGINATION = False
 TYPOGRIFY = True
 
 # to keep Main page first in navigation bar
-PAGE_ORDER_BY = 'date'
+
+ARTICLE_ORDER_BY = 'basename'
+PAGE_ORDER_BY = 'basename'
+
+#  REVERSE_CATEGORY_ORDER = True
 
 THEME = 'notmyidea'
 #  CSS_FILE = 'wide.css'

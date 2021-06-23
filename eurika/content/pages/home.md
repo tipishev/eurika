@@ -1,8 +1,7 @@
 Title: Эврика
-Category: Главная
-Summary: Главная страница
-Date: 2021-06-20
-Slug: main
+Slug: home
+URL:
+save_as: index.html
 
 ![Alt Text]({static}/images/kids.png)
 
@@ -11,9 +10,9 @@ Slug: main
 
 # Курсы
 
-- Мы познаем мир (2-4 года)
+- [Мы познаем мир (2-4 года)](<{filename}../courses/discover_world.md>)
 - Мы познаем мир (4-5,5-6,6-7 лет)
-- Хочу все знать (8-13 лет)
+- [Хочу все знать (8-13 лет)](<{filename}../courses/want_to_know.md>)
 - Русский язык
 - Шахматы
 
