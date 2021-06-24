@@ -1,2 +1,3 @@
 venv/
-eurika/output
+eurika/output/
+eurika/__pycache__/
