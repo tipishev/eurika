@@ -1,1 +1,1 @@
-For python 3.9
+https://tipishev.github.io/eurika
