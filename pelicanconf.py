@@ -30,6 +30,6 @@ PAGE_ORDER_BY = 'basename'
 #  REVERSE_CATEGORY_ORDER = True
 
 #  THEME = 'notmyidea'
-THEME = '/home/user/eurika/eurika/theme'
+THEME = 'theme'
 #  THEME = '/home/user/eurika/pelican-themes/notmyidea-cms'
 #  CSS_FILE = 'wide.css'
