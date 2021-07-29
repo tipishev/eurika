@@ -30,5 +30,5 @@ PAGE_ORDER_BY = 'basename'
 #  REVERSE_CATEGORY_ORDER = True
 
 #  THEME = 'notmyidea'
-THEME = '/home/user/eurika/eurika/html5-dopetrope'
+THEME = '/home/user/eurika/eurika/theme'
 #  CSS_FILE = 'wide.css'

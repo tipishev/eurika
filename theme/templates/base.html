@@ -87,6 +87,30 @@
 		<!-- Main Wrapper -->
 			<div id="main-wrapper">
 				<div class="container">
+
+          <header id="banner" class="body">
+                  <h1><a href="{{ SITEURL }}/index.html">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+                  <nav><ul>
+                  {% for title, url in MENUITEMS %}
+                      <li {% if page is defined and url == page.url %} class="active" {% endif %}>
+                          <a href="{{ SITEURL }}/{{ url }}">{{ title }}</a>
+                      </li>
+                  {% endfor %}
+
+                  {% if DISPLAY_PAGES_ON_MENU != False %}
+
+                  {% for p in pages %}
+                      <li {% if p == page %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                  {% endfor %}
+                  {% endif %}
+
+                  {% for cat, null in categories %}
+                      <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                  {% endfor %}
+
+                  </ul></nav>
+          </header>
+
 					{% block content %}
 					{% endblock %}
 
