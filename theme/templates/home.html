@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row">
+  <div class="12u">
+    <section>
+      <div>
+        <div class="row">
+          <div class="12u skel-cell-mainContent">
+            <!-- Content -->
+            <article class="box is-post">
+              {% if page.picture is defined %}
+              <a href="#" class="image image-full"><img src="{{ page.picture }}"/></a>
+              {% endif %}
+
+              {{ page.content }}
+
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<!-- Courses -->
+<div class="row">
+
+  <h2>Наши Курсы</h2>
+
+  <div class="12u">
+    <section>
+
+      {% for article in articles if article.category == "Курсы" %}
+      {% if loop.index0 % 3  == 0 %}
+      <div class="row">
+        {% endif %}
+        <div class="4u">
+          <section class="box">
+            {% if article.picture is defined %}
+            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}" alt=""/></a>
+            {% endif %}
+            <header>
+              <h3>{{article.title }}</h3>
+            </header>
+            {{ article.summary }}
+            <footer class="actions">
+              <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">ПОДРОБНЕЕ</a>
+            </footer>
+          </section>
+        </div>
+        {% if loop.index % 3  == 0 %}
+      </div>
+      {% endif %}
+      {% endfor %}
+
+    </section><!-- /#content -->
+  </div>
+</div>
+
+<!-- Courses -->
+<div class="row">
+
+  <h2>Наши Студии</h2>
+
+  <div class="12u">
+    <section>
+
+      {% for article in articles if article.category == "Студии" %}
+      {% if loop.index0 % 3  == 0 %}
+      <div class="row">
+        {% endif %}
+        <div class="4u">
+          <section class="box">
+            {% if article.picture is defined %}
+            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}" alt=""/></a>
+            {% endif %}
+            <header>
+              <h3>{{article.title }}</h3>
+            </header>
+            {{ article.summary }}
+            <footer class="actions">
+              <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">ПОДРОБНЕЕ</a>
+            </footer>
+          </section>
+        </div>
+        {% if loop.index % 3  == 0 %}
+      </div>
+      {% endif %}
+      {% endfor %}
+
+    </section><!-- /#content -->
+  </div>
+</div>
+
+{% endblock %}
