@@ -2,6 +2,7 @@ Title: Шахматы
 Slug: chess
 Category: Курсы
 Date: 2021-06-23
+Picture: images/chess.jpg
 
 # Курс «Шахматы» — для детей старше 6 лет
 

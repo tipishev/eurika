@@ -2,6 +2,7 @@ Title: Мы познаем мир (2-4 года)
 Slug: discover-world
 Category: Курсы
 Date: 2021-06-23
+Picture: images/teacher.png
 
 # Курс «Мы познаем мир»
 
