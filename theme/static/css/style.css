@@ -146,9 +146,10 @@
 			text-decoration: none;
 			cursor: pointer;
 			border: 0;
-			border-radius: 5px;
-			background: #d52349;
-			color: #fff !important;
+			border-radius: 3px;
+			background: #88b455;
+			color: #fff;
+			color: #fff;
 			font-weight: 700;
 			outline: 0;
 			-moz-transition: background-color .25s ease-in-out;
@@ -160,7 +161,8 @@
 
 			.button:hover
 			{
-				background: #e53359;
+				background: #ffa200;
+				color: #000;
 			}
 			
 			.button:active
@@ -539,40 +541,39 @@
 /* Banner                                                                        */
 /*********************************************************************************/
 
-	#banner
-	{
-	}
+#banner ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
 
-		#banner a
-		{
-			text-decoration: none;
-			outline: 0;
-		}
+#banner li {
+  float: left;
+}
 
-		#banner header
-		{
-			background-color: #252122;
-			background-color: rgba(34,30,31,0.98);
-			text-align: center;
-		}
-		
-			#banner header h2
-			{
-				color: #fff;
-				font-weight: 700;
-			}
-			
-			#banner header .byline
-			{
-				color: #d52349;
-				padding: 0;
-				font-style: normal;
-			}
-			
-		#banner .image-full
-		{
-			margin: 0;
-		}
+#banner li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#banner li a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+#banner li a.active {
+  color: white;
+  background-color: #04AA6D;
+}
+
 
 /*********************************************************************************/
 /* Wrappers                                                                      */

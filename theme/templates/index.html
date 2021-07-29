@@ -1,8 +1,10 @@
 {% extends "base.html" %}
 {% block content %}
 <div class="row">
+
 <div class="12u">
     <section>
+
         {% for article in articles_page.object_list %}
             {% if loop.index0 % 3  == 0 %}
             <div class="row">
@@ -14,11 +16,10 @@
                         {% endif %}
                         <header>
                             <h3>{{article.title }}</h3>
-                            <span class="byline">{{ article.date }}</span>
                         </header>
                         {{ article.summary }}
                         <footer class="actions">
-                            <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">Continue Reading</a>
+                            <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">ПОДРОБНЕЕ</a>
                         </footer>
                     </section>
                 </div>

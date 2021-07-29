@@ -31,4 +31,5 @@ PAGE_ORDER_BY = 'basename'
 
 #  THEME = 'notmyidea'
 THEME = '/home/user/eurika/eurika/theme'
+#  THEME = '/home/user/eurika/pelican-themes/notmyidea-cms'
 #  CSS_FILE = 'wide.css'
