@@ -10,5 +10,5 @@ DEFAULT_LANG = 'ru'
 DEFAULT_PAGINATION = False
 TYPOGRIFY = True
 #  THEME = 'my_theme'
-THEME = '/home/user/eurika/pelican-themes/bluegrasshopper'
+THEME = 'themes/bluegrasshopper'
 #  CSS_FILE = 'wide.css'

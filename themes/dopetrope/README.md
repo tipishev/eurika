@@ -18,7 +18,7 @@ Optional variables are available for this theme :
 *  `FACEBOOK_USER` : 'pierrepaul.lefebvre', if set in your profile, your profile can be accessed with a simple url like : https://facebook.com/pierrepaul.lefebvre
 *  `ABOUT_TEXT` : Any text set here will show up on the bottom right of the page.
 *  `ABOUT_IMAGE` : Image to show at the bottom right of the page.
-*  `ABOUT_LINK` : Will add a link under the ABOUT_TEXT page 
+*  `ABOUT_LINK` : Will add a link under the ABOUT_TEXT page
 *  `COPYRIGHT` : If SHOW_COPYRIGHT is not set to False, it will show the copyright for html5up, credits for the images and the name set in this variable. You may want to set this variable to your name.
 *  `SHOW_COPYRIGHT` : True by default, you can set it to False to hide the copyrights.
 
