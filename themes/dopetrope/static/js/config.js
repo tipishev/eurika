@@ -6,7 +6,7 @@
 
 window._skel_config = {
 	preset: 'standard',
-	prefix: '/theme/css/style',
+	prefix: '{{ SITEURL }}/theme/css/style',
 	resetCSS: true,
 	breakpoints: {
 		'desktop': {
@@ -22,7 +22,7 @@ window._skel_panels_config = {
 };
 
 jQuery(function() {
-	$('#nav > ul').dropotron({ 
+	$('#nav > ul').dropotron({
 		offsetY: -17,
 		offsetX: -1,
 		mode: 'fade',
