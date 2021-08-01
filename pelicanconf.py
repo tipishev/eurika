@@ -9,5 +9,5 @@ TIMEZONE = 'Europe/Stockholm'
 DEFAULT_LANG = 'ru'
 DEFAULT_PAGINATION = False
 TYPOGRIFY = True
-#  THEME = 'themes/dopetrope'
-THEME = 'themes/bluegrasshopper'
+THEME = 'themes/dopetrope'
+#  THEME = 'themes/bluegrasshopper'
