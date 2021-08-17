@@ -11,3 +11,8 @@ DEFAULT_PAGINATION = False
 TYPOGRIFY = True
 THEME = 'themes/dopetrope'
 #  THEME = 'themes/bluegrasshopper'
+
+PLUGINS = ['photos']
+
+# Photos Plugin
+PHOTO_LIBRARY = '~/eurika/Pictures'
