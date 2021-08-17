@@ -11,5 +11,3 @@ DEFAULT_PAGINATION = False
 TYPOGRIFY = True
 THEME = 'themes/dopetrope'
 #  THEME = 'themes/bluegrasshopper'
-PLUGIN_PATHS = ['plugins']
-PLUGINS = ['photos']
