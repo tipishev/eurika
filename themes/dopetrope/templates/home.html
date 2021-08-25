@@ -23,6 +23,22 @@
   </div>
 </div>
 
+<!-- Gallery -->
+<div class="row">
+  <h2>Галерея</h2>
+  <div class="gallery">
+    {% for title, gallery in page.photo_gallery %}
+    <h1>{{ title }}</h1>
+    {% for name, photo, thumb, exif, caption in gallery %}
+    <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}">
+      <img src="{{ SITEURL }}/{{ thumb }}">
+    </a>
+    {% endfor %}
+    {% endfor %}
+  </div>
+</div>
+
+
 <!-- Courses -->
 <div class="row">
 
@@ -58,24 +74,7 @@
   </div>
 </div>
 
-<!-- Gallery -->
-{% if page.photo_gallery %}
-<div class="row">
-
-  <h2>Галерея</h2>
-
-  <div class="gallery">
-    {% for title, gallery in page.photo_gallery %}
-    <h1>{{ title }}</h1>
-    {% for name, photo, thumb, exif, caption in gallery %}
-    <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
-    {% endfor %}
-    {% endfor %}
-  </div>
-</div>
-{% endif %}
-
-<!-- Courses -->
+<!-- Studios -->
 <div class="row">
 
   <h2>Наши Студии</h2>

@@ -4,7 +4,7 @@ URL:
 save_as: index.html
 template: home
 Image: {photo}default/kids.png
-Gallery: {photo}chess
+Gallery: {photo}default
 
 ## Новости
 
