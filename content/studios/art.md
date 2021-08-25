@@ -2,7 +2,7 @@ Title: Художественная Студия
 Slug: art
 Category: Студии
 Date: 2021-07-29
-Picture: images/art.png
+Image: {photo}default/art.png
 
 #  Художественная Студия
 

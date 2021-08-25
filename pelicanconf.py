@@ -15,4 +15,6 @@ THEME = 'themes/dopetrope'
 PLUGINS = ['photos']
 
 # Photos Plugin
-PHOTO_LIBRARY = '~/eurika/Pictures'
+PHOTO_LIBRARY = 'content/photos'
+PHOTO_ARTICLE = (760, 506, 80)
+PHOTO_THUMB = (300, 200, 100)

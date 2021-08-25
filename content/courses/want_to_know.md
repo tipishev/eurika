@@ -2,7 +2,7 @@ Title: Курс  «ХОЧУ ВСЕ ЗНАТЬ !»
 Slug: want-to-know
 Category: Курсы
 Date: 2021-06-23
-Picture: images/crossroad.png
+Image: {photo}default/crossroad.png
 
 # Курс  «ХОЧУ ВСЕ ЗНАТЬ !»
 

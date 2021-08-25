@@ -9,8 +9,8 @@
           <div class="12u skel-cell-mainContent">
             <!-- Content -->
             <article class="box is-post">
-              {% if page.picture is defined %}
-              <a href="#" class="image image-full"><img src="{{ page.picture }}"/></a>
+              {% if page.photo_image is defined %}
+              <a href="#" class="image image-full"><img src="{{ page.photo_image[1] }}"/></a>
               {% endif %}
 
               {{ page.content }}
@@ -37,8 +37,8 @@
         {% endif %}
         <div class="4u">
           <section class="box">
-            {% if article.picture is defined %}
-            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}" alt=""/></a>
+            {% if article.photo_image %}
+            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.photo_image[2] }}" alt=""/></a>
             {% endif %}
             <header>
               <h3>{{article.title }}</h3>
@@ -58,6 +58,23 @@
   </div>
 </div>
 
+<!-- Gallery -->
+{% if page.photo_gallery %}
+<div class="row">
+
+  <h2>Галерея</h2>
+
+  <div class="gallery">
+    {% for title, gallery in page.photo_gallery %}
+    <h1>{{ title }}</h1>
+    {% for name, photo, thumb, exif, caption in gallery %}
+    <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
+    {% endfor %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 <!-- Courses -->
 <div class="row">
 
@@ -72,8 +89,8 @@
         {% endif %}
         <div class="4u">
           <section class="box">
-            {% if article.picture is defined %}
-            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}" alt=""/></a>
+            {% if article.photo_image %}
+            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.photo_image[2] }}" alt=""/></a>
             {% endif %}
             <header>
               <h3>{{article.title }}</h3>

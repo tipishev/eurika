@@ -10,7 +10,6 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 GITHUB_PAGES_BRANCH=gh-pages
 
-
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
@@ -27,7 +26,6 @@ PORT ?= 0
 ifneq ($(PORT), 0)
 	PELICANOPTS += -p $(PORT)
 endif
-
 
 help:
 	@echo 'Makefile for a pelican Web site                                           '
@@ -74,6 +72,5 @@ publish:
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
 	git push origin $(GITHUB_PAGES_BRANCH)
-
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github

@@ -1,9 +1,10 @@
 Title: Главная
 Slug: home
-Picture: images/kids.png
 URL:
 save_as: index.html
 template: home
+Image: {photo}default/kids.png
+Gallery: {photo}chess
 
 ## Новости
 

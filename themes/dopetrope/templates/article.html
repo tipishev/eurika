@@ -10,7 +10,9 @@
             <!-- Content -->
             <article class="box is-post">
               {% if article.photo_image %}
-              <div class="image image-full"><img src="{{ SITEURL }}/{{ article.photo_image[1] }}"/></div>
+              <div class="image image-left">
+                <img src="{{ SITEURL }}/{{ article.photo_image[2] }}"/>
+              </div>
               {% endif %}
               <div class="post-infos">
                 <ul class="tags">
