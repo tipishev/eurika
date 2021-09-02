@@ -35,9 +35,15 @@
             <ul>
 
               <!-- pages -->
-              {% for p in pages %}
-              {{ p.slug }}
-              <li {% if p == page %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+              {% for slug in PAGE_ORDER %}
+              {# yeah, yeah O(n^2) complexity boo-hoo :'[ #}
+                {% for p in pages %}
+                  {% if p.slug == slug %}
+                  <li {% if p == page %}class="active"{% endif %}>
+                    <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+                  </li>
+                  {% endif %}
+                {% endfor %}
               {% endfor %}
 
               <!-- categories -->
