@@ -10,9 +10,10 @@ DEFAULT_LANG = 'ru'
 DEFAULT_PAGINATION = False
 TYPOGRIFY = True
 THEME = 'themes/dopetrope'
-#  THEME = 'themes/bluegrasshopper'
 
 PLUGINS = ['photos']
+
+PAGE_ORDER = ['home', 'about', 'rules', 'contacts']
 
 # Photos Plugin
 PHOTO_LIBRARY = 'content/photos'
