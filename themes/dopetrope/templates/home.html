@@ -12,9 +12,7 @@
               {% if page.photo_image is defined %}
               <a href="#" class="image image-full"><img src="{{ page.photo_image[1] }}"/></a>
               {% endif %}
-
               {{ page.content }}
-
             </article>
           </div>
         </div>
@@ -41,12 +39,9 @@
 
 <!-- Courses -->
 <div class="row">
-
   <h2>Наши Курсы</h2>
-
   <div class="12u">
     <section>
-
       {% for article in articles if article.category == "Курсы" %}
       {% if loop.index0 % 3  == 0 %}
       <div class="row">
@@ -54,14 +49,18 @@
         <div class="4u">
           <section class="box">
             {% if article.photo_image %}
-            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.photo_image[2] }}" alt=""/></a>
+            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full">
+              <img src="{{ SITEURL }}/{{ article.photo_image[2] }}" alt=""/>
+            </a>
             {% endif %}
             <header>
               <h3>{{article.title }}</h3>
             </header>
             {{ article.summary }}
             <footer class="actions">
-              <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">ПОДРОБНЕЕ</a>
+              <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">
+                ПОДРОБНЕЕ
+              </a>
             </footer>
           </section>
         </div>
@@ -69,19 +68,15 @@
       </div>
       {% endif %}
       {% endfor %}
-
-    </section><!-- /#content -->
+    </section>
   </div>
 </div>
 
 <!-- Studios -->
 <div class="row">
-
   <h2>Наши Студии</h2>
-
   <div class="12u">
     <section>
-
       {% for article in articles if article.category == "Студии" %}
       {% if loop.index0 % 3  == 0 %}
       <div class="row">
@@ -89,14 +84,18 @@
         <div class="4u">
           <section class="box">
             {% if article.photo_image %}
-            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.photo_image[2] }}" alt=""/></a>
+            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full">
+              <img src="{{ SITEURL }}/{{ article.photo_image[2] }}" alt=""/>
+            </a>
             {% endif %}
             <header>
               <h3>{{article.title }}</h3>
             </header>
             {{ article.summary }}
             <footer class="actions">
-              <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">ПОДРОБНЕЕ</a>
+              <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">
+                ПОДРОБНЕЕ
+              </a>
             </footer>
           </section>
         </div>
@@ -104,8 +103,7 @@
       </div>
       {% endif %}
       {% endfor %}
-
-    </section><!-- /#content -->
+    </section>
   </div>
 </div>
 

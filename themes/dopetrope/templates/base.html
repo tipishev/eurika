@@ -1,4 +1,5 @@
 <html>
+
   <head>
     {% block head %}
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
@@ -12,17 +13,15 @@
       <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style-desktop.css" />
     </noscript>
     {% endblock head %}
-
-    <!-- Gallery -->
+    <!-- Gallery CSS -->
     {% if (article and article.photo_gallery)
        or (articles_page and articles_page.object_list[0].photo_gallery)
        or (page)
        %}
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/magnific-popup.css">
     {% endif %}
-
-
   </head>
+
   <body class="no-sidebar">
 
     <!-- Main Wrapper -->
@@ -35,15 +34,9 @@
           <nav>
             <ul>
 
-              <!-- menuitems -->
-              {% for title, url in MENUITEMS %}
-              <li {% if page is defined and url == page.url %} class="active" {% endif %}>
-                <a href="{{ SITEURL }}/{{ url }}">{{ title }}</a>
-              </li>
-              {% endfor %}
-
               <!-- pages -->
               {% for p in pages %}
+              {{ p.slug }}
               <li {% if p == page %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
               {% endfor %}
 

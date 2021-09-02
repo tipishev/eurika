@@ -1,5 +1,5 @@
 Title: Контакты
-Slug: zcontacts
+Slug: contacts
 
 # КЛУБ ЭВРИКА
 
