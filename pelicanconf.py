@@ -13,7 +13,7 @@ THEME = 'themes/dopetrope'
 
 PLUGINS = ['photos']
 
-PAGE_ORDER = ['home', 'about', 'rules', 'contacts']
+PAGE_ORDER = ['home', 'about', 'schedule', 'rules', 'contacts']
 
 # Photos Plugin
 PHOTO_LIBRARY = 'content/photos'
