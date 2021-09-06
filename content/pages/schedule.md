@@ -15,3 +15,19 @@ Date: 2021-09-05
 * 09:50 - 10:20 Русский язык, Ирина
 * 10:20 - 10:50 Развивающие игры, Ирина
 
+<table>
+<thead>
+<tr>
+<th>Heading1</th>
+<th>Heading2</th>
+<th>Heading3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Data1</td>
+<td>Data2</td>
+<td>Data3</td>
+</tr>
+</tbody>
+</table>
