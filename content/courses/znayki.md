@@ -2,7 +2,8 @@ Title: Курс  «Знайки»
 Slug: znayki
 Category: Курсы
 Date: 2021-09-05
-Image: {photo}default/crossroad.png
+Image: {photo}seven_eight/photo5902177537889515426.jpg
+Gallery: {photo}seven_eight
 
 # Курс  «Знайки»
 
