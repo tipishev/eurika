@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'tipishev'
+AUTHOR = 'admin'
 SITENAME = 'Eurika.se'
 SITEURL = ''
 PATH = 'content'
