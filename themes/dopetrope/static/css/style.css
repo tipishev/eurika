@@ -768,3 +768,8 @@ article em {
 .two-col {
   column-count: 2;
 }
+
+/* for the list items to align with the column */
+ul,ol {
+  list-style: none;
+}
