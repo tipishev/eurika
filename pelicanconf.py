@@ -13,7 +13,7 @@ THEME = 'theme'
 
 PLUGINS = ['photos']
 
-PAGE_ORDER = ['home', 'about', 'schedule', 'rules', 'contacts']
+PAGE_ORDER = ['home', 'about', 'schedule', 'rules', 'contacts', 'home_se']
 
 # TODO custom age extractor function for courses
 ARTICLE_ORDER_BY = 'date'

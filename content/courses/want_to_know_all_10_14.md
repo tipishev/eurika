@@ -29,6 +29,10 @@ Gallery: {photo}/eight_ten
 * Адрес: Drottningholmsvägen 37 
 * День:  воскресенье
 
+### Дополнительные курсы
+* [Курс «Музыка и Театр» для детей 7-10 лет]({filename}/courses/music_theatre_7_10.md)
+* [Курс «Русский язык»]({filename}/courses/russian.md)
+
 #### Расписание занятий:
 
 ##### Занимательные путешествия

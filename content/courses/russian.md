@@ -5,6 +5,7 @@ Date: 2021-09-10
 Image: {photo}eight_ten/photo5902177537889515435.jpg
 Gallery: {photo}/eight_ten
 Age: 10
+Status: draft
 
 Курс состоит из двух частей: русского языка и литературы.
 

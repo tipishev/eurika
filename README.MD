@@ -7,8 +7,8 @@ https://tipishev.github.io/eurika
 [ ] Top picture carrousel
 [ ] deduplicate schedule
 [ ] teachers
-[ ] Swedish page
+[x] Swedish page
 [ ] Russian include in course 10-14, same for music/theatre
-[ ] Sort by age
+[x] Sort by age
 [ ] Gallery for art studio
 [x] Readable font
