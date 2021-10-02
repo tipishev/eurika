@@ -3,7 +3,7 @@ Slug: home
 URL:
 save_as: index.html
 template: home
-Image: {photo}default/kids.png
+Image: {photo}default/main.jpg
 Gallery: {photo}home
 
 ## Новости

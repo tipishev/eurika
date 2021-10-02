@@ -2,6 +2,7 @@ Title: Курс «Мы познаем мир» для детей 4-5 лет
 Slug: come_to_know_world_4_5
 Category: Курсы
 Date: 2021-09-18
+Age: 4
 Image: {photo}four_five/avatar.jpeg
 Gallery: {photo}/four_five
 

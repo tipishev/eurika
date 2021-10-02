@@ -2,6 +2,7 @@ Title: Курс «Хочу  все знать» для детей 7-8 лет
 Slug: want_to_know_all_7_8
 Category: Курсы
 Date: 2021-09-18
+Age: 7
 Image: {photo}seven_eight/photo5902177537889515429.jpg
 Gallery: {photo}/seven_eight
 

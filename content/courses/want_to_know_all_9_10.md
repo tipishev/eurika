@@ -2,6 +2,7 @@ Title: Курс «Хочу все знать» для детей 9-10 лет
 Slug: want_to_know_all_9_10
 Category: Курсы
 Date: 2021-09-18
+Age: 9
 Image: {photo}eight_ten/photo5902177537889515447.jpg
 Gallery: {photo}/eight_ten
 

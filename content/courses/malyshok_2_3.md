@@ -2,6 +2,7 @@ Title: Курс «Малышок» для детей 2-3 лет
 Slug: malyshok_2_3
 Category: Курсы
 Date: 2021-09-01
+Age: 4
 Image: {photo}two_three/1.jpeg
 Gallery: {photo}/two_three
 
