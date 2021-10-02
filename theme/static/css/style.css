@@ -19,8 +19,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 body
 {
-	/* font-family: 'Source Sans Pro'; */
-	font-family: 'Georgia';
+	font-family: 'Roboto', 'Georgia', serif;
 	font-weight: 300;
 	background: #252122;
 	background-image: url('images/bg02.png');
