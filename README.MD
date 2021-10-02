@@ -2,7 +2,7 @@ https://tipishev.github.io/eurika
 
 # TODO
 
-[ ] two columns for schedule on Desktop only
+[x] two columns for schedule on Desktop only
 [x] drop top left menu button
 [ ] Top picture carrousel
 [ ] deduplicate schedule
