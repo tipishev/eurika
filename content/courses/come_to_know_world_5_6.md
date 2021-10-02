@@ -1,7 +1,7 @@
 Title: Курс «Мы познаем мир» для детей 5-6 лет
 Slug: come_to_know_world_5_6
 Category: Курсы
-Date: 2021-09-18
+Date: 2021-09-05
 Age: 5
 Image: {photo}five_six/avatar.jpg
 Gallery: {photo}/five_six

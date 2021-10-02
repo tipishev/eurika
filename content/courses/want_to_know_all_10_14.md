@@ -1,7 +1,7 @@
 Title: Курс «Хочу все знать» для детей 10-14 лет
 Slug: want_to_know_all_10_14
 Category: Курсы
-Date: 2021-09-18
+Date: 2021-09-10
 Age: 10
 Image: {photo}eight_ten/photo5902177537889515435.jpg
 Gallery: {photo}/eight_ten
