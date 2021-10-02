@@ -19,12 +19,12 @@ window._skel_panels_config = {
 	preset: 'standard'
 };
 
-jQuery(function() {
-	$('#nav > ul').dropotron({
-		offsetY: -17,
-		offsetX: -1,
-		mode: 'fade',
-		noOpenerFade: true,
-		detach: false
-	});
-});
+// jQuery(function() {
+//         $('#nav > ul').dropotron({
+//                 offsetY: -17,
+//                 offsetX: -1,
+//                 mode: 'fade',
+//                 noOpenerFade: true,
+//                 detach: false
+//         });
+// });
