@@ -475,3 +475,8 @@ margin-top: -6.5em;
 			font-family: Inconsolata, Monaco, monospace;
 			padding: 1em;
 		}
+
+.desktop-two-col {
+	column-count: 2;
+}
+

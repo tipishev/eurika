@@ -1,7 +1,7 @@
 Title: Расписание
 Slug: schedule
 Date: 2021-09-05
-Template: page-two-col
+Template: page-desktop-two-col
 
 # Малышарики (4-5 лет)
 

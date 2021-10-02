@@ -765,11 +765,11 @@ article em {
 	font-weight: bold;
 }
 
-.two-col {
-	column-count: 2;
-}
-
 /* for the list items to align with the column */
 ul,ol {
 	list-style: none;
+}
+
+.desktop-two-col {
+	column-count: 2;
 }
