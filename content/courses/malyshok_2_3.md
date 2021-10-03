@@ -33,5 +33,12 @@ Age: 2
 * <strong>Всего в полугодии 14 занятий продолжительностью по 50 минут.</strong>
 * Адрес: <strong>Stora Essingen, Essinge Kyrkväg, 3</strong>
 * День: <strong>суббота</strong>
-* Время: <strong>группа <span style="color:red">Капелька</span> 09.15 – 10.05</strong>
 * <strong>Стоимость курса за полугодие: 2200 крон.</strong>
+
+---
+**Расписание занятий**
+
+** Группа <span style="color:red">Капелька</span> **
+
+* 09.15 – 10.05
+

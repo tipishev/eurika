@@ -34,21 +34,20 @@ Gallery: {photo}/five_six
 * Стоимость курса за полугодие: <strong>2400 крон.</strong>
 * <strong>Педагоги: Ирина Янссон и Наталья Грошкова</strong>
 
-### Расписание занятий
+---
+
+** Расписание занятий **
 
 
-#### <span style="color:red">Группа Чебурашка</span>
+** <span style="color:red">Группа Чебурашка</span> **
 
-<strong>09.50 – 10.20</strong>  Русский язык            <span style="color:blue">Ирина</span>
+* 09.50 – 10.20  Русский язык            Ирина
+* 10.25 – 10.55  Развивающие игры  Ирина
+* 11.05– 11.40  МузТеатр                Наталья
 
-<strong>10.25 – 10.55<strong>  Развивающие игры  <span style="color:blue">Ирина</span>
 
-<span style="color:blue">11.05– 11.40  МузТеатр                Наталья</span>
+** <span style="color:red">Группа Антошка</span> **
 
-#### <span style="color:red">Группа Антошка</span>
-
-<strong>11.10 – 11.40</strong>  Русский язык            <span style="color:blue">Ирина</span>
-
-<strong>11.50 – 12.20<strong>  Развивающие игры  <span style="color:blue">Ирина</span>
-
-<span style="color:blue">12.30 – 13.00  МузТеатр                Наталья</span>
+* 11.10 – 11.40  Русский язык            Ирина
+* 11.50 – 12.20  Развивающие игры  Ирина
+* 12.30 – 13.00  МузТеатр                Наталья

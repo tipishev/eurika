@@ -34,7 +34,16 @@ Gallery: {photo}/three_four
 * <strong>Всего в полугодии 14 занятий продолжительностью по 60 минут.</strong>
 * <strong>Адрес: Stora Essingen, Essinge Kyrkväg, 3</strong>
 * <strong>День: суббота</strong>
-* <strong>Время:</strong>
-* <strong><span style="color: purple">Группа</span> <span style="color: red">Солнышко</span>     10.15 – 11.15</strong>
-* <strong><span style="color: purple">Группа</span> <span style="color: red">Лучик</span>      11.20 – 12.20</strong>
 * <strong>Стоимость курса за полугодие: 2400 крон.</strong>
+
+---
+
+**Расписание занятий**
+
+** Группа <span style="color: red">Солнышко</span> **
+
+* 10.15 – 11.15
+
+** Группа <span style="color: red">Лучик</span>**
+
+* 11.20 – 12.20
