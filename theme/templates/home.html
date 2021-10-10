@@ -11,9 +11,7 @@
           <div class="12u skel-cell-mainContent">
             <!-- Content -->
             <article class="box is-post">
-              {% if page.photo_image is defined %}
-              <a href="#" class="image image-full"><img src="{{ page.photo_image[1] }}"/></a>
-              {% endif %}
+              <div class="image image-full"><img src="{{ page.photo_image[1] }}"/></div>
               {{ page.content }}
             </article>
           </div>
@@ -37,7 +35,6 @@
     {% endfor %}
   </div>
 </div>
-
 
 <!-- Courses -->
 <div class="row">
