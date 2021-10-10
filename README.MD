@@ -2,6 +2,7 @@ https://tipishev.github.io/eurika
 
 # TODO
 
+[ ] optional caroussel JS/CSS loading
 [ ] check Android gallery
 [x] main gallery study pics
 [x] galleries with course names
