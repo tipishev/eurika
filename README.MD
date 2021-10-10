@@ -11,7 +11,7 @@ https://tipishev.github.io/eurika
 [x] Crop the pictures
 [x] two columns for schedule on Desktop only
 [x] drop top left menu button
-[ ] Top picture carrousel
+[x] Top picture carrousel
 [-] deduplicate schedule
 [ ] teachers
 [x] Swedish page

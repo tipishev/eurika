@@ -14,11 +14,13 @@
 
               <!-- Carousel -->
               <div class="carousel">
-                <div class="image image-full"><img src="{{ page.photo_image[1] }}"/></div>
-                <div class="image image-full"><img src="{{ page.photo_image[1] }}"/></div>
-                <div class="image image-full"><img src="{{ page.photo_image[1] }}"/></div>
+                {% for title, gallery in page.photo_gallery if title == 'carousel'%}
+                {# TODO filter on carousel name #}
+                {% for name, photo, thumb, exif, caption in gallery %}
+                <div class="image image-full"><img src="{{ SITEURL }}/{{ photo }}"/></div>
+                {% endfor %}
+                {% endfor %}
               </div>
-
 
               <!-- Rendered Content -->
               {{ page.content }}
@@ -34,8 +36,7 @@
 <div class="row">
   <h2>Галерея</h2>
   <div class="gallery">
-    {% for title, gallery in page.photo_gallery %}
-    <h1>{{ title }}</h1>
+    {% for title, gallery in page.photo_gallery if title == 'gallery' %}
     {% for name, photo, thumb, exif, caption in gallery %}
     <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}">
       <img src="{{ SITEURL }}/{{ thumb }}">

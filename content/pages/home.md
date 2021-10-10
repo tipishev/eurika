@@ -3,9 +3,8 @@ Slug: home
 URL:
 save_as: index.html
 template: home
-Image: {photo}default/main.jpg
-Gallery: {photo}home
-Carousel: {photo}home
+Image: {photo}home/carousel/main.jpg
+Gallery: {photo}home/gallery{gallery},{photo}home/carousel{carousel}
 
 ## Новости
 
