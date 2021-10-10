@@ -3,8 +3,8 @@ Slug: come_to_know_world_4_5
 Category: Курсы
 Date: 2021-09-04
 Age: 4
-Image: {photo}four_five/avatar.jpeg
-Gallery: {photo}/four_five
+Image: {photo}come_to_know_world_4_5/avatar.jpg
+Gallery: {photo}/come_to_know_world_4_5
 
 В возрасте 4-5 лет игра продолжает оставаться основной формой организации жизни детей.  У детей активно проявляется желание и попытки объяснить интересующие явления окружающего мира, любознательность, потребность в самостоятельности и 
 активности.

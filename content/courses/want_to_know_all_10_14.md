@@ -3,8 +3,8 @@ Slug: want_to_know_all_10_14
 Category: Курсы
 Date: 2021-09-10
 Age: 10
-Image: {photo}eight_ten/photo5902177537889515435.jpg
-Gallery: {photo}/eight_ten
+Image: {photo}want_to_know_all_10_14/avatar.jpg
+Gallery: {photo}/want_to_know_all_10_14
 
 Целью курса является доступное объяснение природы окружающего мира, чтобы дети могли приобщиться к «чудесам» взрослой науки, достижениях человечества, культурных ценностях.
 

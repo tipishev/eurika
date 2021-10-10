@@ -2,8 +2,8 @@ Title: Курс «Русский язык»
 Slug: russian
 Category: Курсы
 Date: 2021-09-10
-Image: {photo}eight_ten/photo5902177537889515435.jpg
-Gallery: {photo}/eight_ten
+Image: {photo}russian/avatar.jpg
+Gallery: {photo}/russian
 Age: 10
 Status: draft
 
