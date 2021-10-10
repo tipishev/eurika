@@ -3,15 +3,24 @@
 
 {% block content %}
 
+<!-- Content -->
 <div class="row">
   <div class="12u">
     <section>
       <div>
         <div class="row">
           <div class="12u skel-cell-mainContent">
-            <!-- Content -->
             <article class="box is-post">
-              <div class="image image-full"><img src="{{ page.photo_image[1] }}"/></div>
+
+              <!-- Carousel -->
+              <div class="carousel">
+                <div class="image image-full"><img src="{{ page.photo_image[1] }}"/></div>
+                <div class="image image-full"><img src="{{ page.photo_image[1] }}"/></div>
+                <div class="image image-full"><img src="{{ page.photo_image[1] }}"/></div>
+              </div>
+
+
+              <!-- Rendered Content -->
               {{ page.content }}
             </article>
           </div>

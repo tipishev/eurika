@@ -5,6 +5,7 @@ save_as: index.html
 template: home
 Image: {photo}default/main.jpg
 Gallery: {photo}home
+Carousel: {photo}home
 
 ## Новости
 

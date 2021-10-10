@@ -21,6 +21,13 @@
        %}
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/magnific-popup.css">
     {% endif %}
+
+    <!-- TODO optional loading only when needed -->
+    <!-- Carousel CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/slick/slick.css"/>
+    // Add the new slick-theme.css if you want the default styling
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/slick/slick-theme.css"/>
+
   </head>
 
   <body class="no-sidebar">
@@ -98,6 +105,18 @@
       });
     </script>
     {% endif %}
+
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="{{ SITEURL }}/theme/slick/slick.min.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(
+        function(){
+          $('.carousel').slick({
+            autoplay: true
+          });
+        });
+    </script>
 
 
   </body>
