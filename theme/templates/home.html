@@ -19,7 +19,7 @@
                 {% for title, gallery in page.photo_gallery if title == 'carousel'%}
                 {# TODO filter on carousel name #}
                   {% for name, photo, thumb, exif, caption in gallery %}
-                  <div class="image image-full">
+                  <div class="image">
                     <img src="{{ SITEURL }}/{{ photo }}"/>
                   </div>
                   {% endfor %}
