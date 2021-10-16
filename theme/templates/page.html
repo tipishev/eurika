@@ -7,13 +7,29 @@
       <div>
         <div class="row">
           <div class="12u skel-cell-mainContent">
+
             <!-- Content -->
             <article class="box is-post">
-              {% if page.picture is defined %}
-              <a href="#" class="image image-full"><img src="{{ page.picture }}"/></a>
+
+              {% if page.photo_image is defined %}
+              <div class="image image-left">
+                <img src="{{ SITEURL }}/{{ page.photo_image[2] }}"/>
+              </div>
               {% endif %}
 
               {{ page.content }}
+
+              <!-- Gallery -->
+              {% if page.photo_gallery %}
+              <div class="gallery">
+                {% for title, gallery in page.photo_gallery %}
+                <h1>{{ title }}</h1>
+                {% for name, photo, thumb, exif, caption in gallery %}
+                <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
+                {% endfor %}
+                {% endfor %}
+              </div>
+              {% endif %}
 
             </article>
           </div>

@@ -4,9 +4,9 @@ https://tipishev.github.io/eurika
 
 [x] Move the main Gallery under all courses
 [x] Quests at the bottom
-[ ] Another picture for 2-3
-[ ] 10-14 to carousel
-[ ] Summer camp, optional visibility
+[x] Another picture for 2-3
+[x] 10-14 to carousel
+[x] Summer camp, optional visibility
 [x] Club reviews next to gallery
 
 [ ] optional caroussel JS/CSS loading
