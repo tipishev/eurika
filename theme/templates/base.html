@@ -25,6 +25,7 @@
     <!-- TODO optional loading only when needed -->
     <!-- Carousel CSS -->
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/slick/slick.css"/>
+
     // Add the new slick-theme.css if you want the default styling
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/slick/slick-theme.css"/>
 
@@ -113,11 +114,11 @@
       $(document).ready(
         function(){
           $('.carousel').slick({
-            autoplay: true
+            autoplay: true,
+            adaptiveHeight: true
           });
         });
     </script>
-
 
   </body>
 </html>

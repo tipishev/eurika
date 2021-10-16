@@ -2,8 +2,15 @@ https://tipishev.github.io/eurika
 
 # TODO
 
+[x] Move the main Gallery under all courses
+[x] Quests at the bottom
+[ ] Another picture for 2-3
+[ ] 10-14 to carousel
+[ ] Summer camp, optional visibility
+[x] Club reviews next to gallery
+
 [ ] optional caroussel JS/CSS loading
-[ ] check Android gallery
+[ ] fix Android gallery
 [x] main gallery study pics
 [x] galleries with course names
 [x] Swedish page in the end

@@ -1,6 +1,6 @@
 Title: Квeст-экскурсии
 Slug: quests
-Category: Курсы
+Category: Квесты
 Date: 2021-01-04
 Age: 4
 Image: {photo}quests/avatar.jpg

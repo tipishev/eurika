@@ -16,9 +16,11 @@
               <div class="carousel">
                 {% for title, gallery in page.photo_gallery if title == 'carousel'%}
                 {# TODO filter on carousel name #}
-                {% for name, photo, thumb, exif, caption in gallery %}
-                <div class="image image-full"><img src="{{ SITEURL }}/{{ photo }}"/></div>
-                {% endfor %}
+                  {% for name, photo, thumb, exif, caption in gallery %}
+                  <div class="image image-full">
+                    <img src="{{ SITEURL }}/{{ photo }}"/>
+                  </div>
+                  {% endfor %}
                 {% endfor %}
               </div>
 
@@ -32,19 +34,6 @@
   </div>
 </div>
 
-<!-- Gallery -->
-<div class="row">
-  <h2>Галерея</h2>
-  <div class="gallery">
-    {% for title, gallery in page.photo_gallery if title == 'gallery' %}
-    {% for name, photo, thumb, exif, caption in gallery %}
-    <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}">
-      <img src="{{ SITEURL }}/{{ thumb }}">
-    </a>
-    {% endfor %}
-    {% endfor %}
-  </div>
-</div>
 
 <!-- Courses -->
 <div class="row">
@@ -108,11 +97,85 @@
             </footer>
           </section>
         </div>
-        {% if loop.index % 3  == 0 %}
+      {% if loop.index % 3  == 0 %}
       </div>
       {% endif %}
       {% endfor %}
     </section>
+  </div>
+</div>
+
+<!-- Quests -->
+<div class="row">
+  <h2>Квесты</h2>
+  <div class="12u">
+    <section>
+      {% for article in articles if article.category == "Квесты" %}
+
+        {% if loop.index0 % 3  == 0 %}
+        <div class="row">
+        {% endif %}
+        <div class="4u">
+          <section class="box">
+            {% if article.photo_image %}
+            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full">
+              <img src="{{ SITEURL }}/{{ article.photo_image[2] }}" alt=""/>
+            </a>
+            {% endif %}
+            <header>
+              <h3>{{article.title }}</h3>
+            </header>
+            {{ article.summary }}
+            <footer class="actions">
+              <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">
+                ПОДРОБНЕЕ
+              </a>
+            </footer>
+          </section>
+        </div>
+      {% if loop.index % 3  == 0 %}
+      </div>
+      {% endif %}
+
+      {% endfor %}
+    </section>
+  </div>
+</div>
+
+<!-- Reviews -->
+<div class="row">
+  <h2>Отзывы о клубе</h2>
+
+  <div class="row">
+
+    <div class="4u">
+      <blockquote>"Архимеды" обожают искать научные объяснения тем или иным паранормальным или просто удивительным явлениям. На первом занятии мы познакомились с легендой о "Летучем голландце" и  почитали записи из морских дневников о встрече с ним. В итоге подошли к существующей уже гипотезе о том, что "Летучий голландец" - происки простых миражей.</blockquote>
+    </div>
+
+    <div class="4u">
+      <blockquote>"Архимеды" обожают искать научные объяснения тем или иным паранормальным или просто удивительным явлениям. На первом занятии мы познакомились с легендой о "Летучем голландце" и  почитали записи из морских дневников о встрече с ним. В итоге подошли к существующей уже гипотезе о том, что "Летучий голландец" - происки простых миражей.</blockquote>
+    </div>
+
+    <div class="4u">
+      <blockquote>"Архимеды" обожают искать научные объяснения тем или иным паранормальным или просто удивительным явлениям. На первом занятии мы познакомились с легендой о "Летучем голландце" и  почитали записи из морских дневников о встрече с ним. В итоге подошли к существующей уже гипотезе о том, что "Летучий голландец" - происки простых миражей.</blockquote>
+    </div>
+
+  </div>
+
+</div>
+
+
+<!-- Gallery -->
+<div class="row">
+  <h2>Галерея</h2>
+  <div class="gallery">
+    {% for title, gallery in page.photo_gallery if title == 'gallery' %}
+    {% for name, photo, thumb, exif, caption in gallery %}
+    <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}">
+      <img src="{{ SITEURL }}/{{ thumb }}">
+    </a>
+    {% endfor %}
+    {% endfor %}
   </div>
 </div>
 

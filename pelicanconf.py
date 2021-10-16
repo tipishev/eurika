@@ -18,7 +18,6 @@ PAGE_ORDER = ['home', 'about', 'schedule', 'rules', 'contacts', 'home_se']
 # TODO custom age extractor function for courses
 ARTICLE_ORDER_BY = 'date'
 
-
 # Photos Plugin
 PHOTO_LIBRARY = 'content/photos'
 PHOTO_ARTICLE = (760, 506, 80)
