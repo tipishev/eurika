@@ -9,7 +9,7 @@ Gallery: {photo}home/gallery{gallery},{photo}home/carousel{carousel}
 ## Новости
 
 ### 2021-10-17
-![Летний лагерь маленькая фотография](/photos/summer_camp/avatart.jpg)
+![Летний лагерь маленькая фотография]({photo}summer_camp/thumb.jpg)
 
  Oткрыта запись в [Летний Лагерь]({filename}./summer_camp.md).
 
