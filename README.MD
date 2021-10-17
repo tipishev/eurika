@@ -2,6 +2,8 @@ https://tipishev.github.io/eurika
 
 # TODO
 
+[ ] Toggleable categories in pelicanconf
+
 [x] Move the main Gallery under all courses
 [x] Quests at the bottom
 [x] Another picture for 2-3

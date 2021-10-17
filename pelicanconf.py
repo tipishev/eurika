@@ -14,9 +14,14 @@ THEME = 'theme'
 PLUGINS = ['photos']
 
 PAGE_ORDER = [
-'home',
-'summer_camp',
-'about', 'schedule', 'rules', 'contacts', 'home_se']
+  'home',
+  'summer_camp',  # uncomment this in April :)
+  'about',
+  'schedule',
+  'rules',
+  'contacts',
+  'home_se'
+]
 
 # TODO custom age extractor function for courses
 ARTICLE_ORDER_BY = 'date'
@@ -24,4 +29,4 @@ ARTICLE_ORDER_BY = 'date'
 # Photos Plugin
 PHOTO_LIBRARY = 'content/photos'
 PHOTO_ARTICLE = (760, 506, 80)
-PHOTO_THUMB = (300, 200, 100)
+PHOTO_THUMB = (150, 100, 70)
