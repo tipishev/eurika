@@ -3,6 +3,9 @@ https://tipishev.github.io/eurika
 # TODO
 
 [ ] Toggleable categories in pelicanconf
+[ ] Crop all avatars
+[ ] Summer camp in the end
+[ ] 10-14 remove
 
 [x] Move the main Gallery under all courses
 [x] Quests at the bottom
