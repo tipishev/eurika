@@ -2,9 +2,12 @@ https://tipishev.github.io/eurika
 
 # TODO
 
+## 2021-11-14
+
+[x] Quests and Studios thumbnails quality
 [ ] Toggleable categories in pelicanconf
-[ ] Crop all avatars
-[ ] Summer camp in the end
+[x] Crop all avatars
+[x] Summer camp in the end
 [ ] 10-14 remove
 
 [x] Move the main Gallery under all courses

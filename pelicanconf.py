@@ -15,12 +15,12 @@ PLUGINS = ['photos']
 
 PAGE_ORDER = [
   'home',
-  'summer_camp',  # uncomment this in April :)
   'about',
   'schedule',
   'rules',
   'contacts',
-  'home_se'
+  'home_se',
+  'summer_camp',  # uncomment this in April :)
 ]
 
 # TODO custom age extractor function for courses
