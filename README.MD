@@ -2,13 +2,20 @@ https://tipishev.github.io/eurika
 
 # TODO
 
+[x] 3 theater studios above art and Abyrvalg from email + images from email
+[ ] Format and cross-link theaters' content
+[ ] place, day, time in card, under header, before text
+[ ] teachers: http://eurika.se/home/about/teachers
+[ ] 10-14 remove image from card, replace with another
+[ ] Gallery for art studio
+[ ] consistent theat*er*
+
 ## 2021-11-14
 
 [x] Quests and Studios thumbnails quality
 [ ] Toggleable categories in pelicanconf
 [x] Crop all avatars
 [x] Summer camp in the end
-[ ] 10-14 remove
 
 [x] Move the main Gallery under all courses
 [x] Quests at the bottom
@@ -29,9 +36,7 @@ https://tipishev.github.io/eurika
 [x] drop top left menu button
 [x] Top picture carrousel
 [-] deduplicate schedule
-[ ] teachers
 [x] Swedish page
 [x] Russian include in course 10-14, same for music/theatre
 [x] Sort by age
-[ ] Gallery for art studio
 [x] Readable font
