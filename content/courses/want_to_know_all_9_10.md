@@ -46,7 +46,7 @@ Gallery: {photo}/want_to_know_all_9_10
 * Педагоги: Людмила Белявская и Алена Краснер
 
 ### Дополнительные курсы
-* [Курс «Музыка и Театр» для детей 7-10 лет]({filename}/courses/music_theatre_7_10.md)
+* [Курс «Музыка и Театр» для детей 7-10 лет]({filename}/courses/music_theater_7_10.md)
 
 #### Расписание занятий
 ##### <span style="color:red">Группа Знайки</span>

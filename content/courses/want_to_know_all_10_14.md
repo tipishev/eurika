@@ -30,7 +30,7 @@ Gallery: {photo}/want_to_know_all_10_14
 * День:  воскресенье
 
 ### Дополнительные курсы
-* [Курс «Музыка и Театр» для детей 7-10 лет]({filename}/courses/music_theatre_7_10.md)
+* [Курс «Музыка и Театр» для детей 7-10 лет]({filename}/courses/music_theater_7_10.md)
 * [Курс «Русский язык»]({filename}/courses/russian.md)
 
 #### Расписание занятий:

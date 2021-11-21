@@ -1,9 +1,9 @@
 Title: Курс «Музыка и Театр» для детей 7-10 лет
-Slug: music_theatre_7_10
+Slug: music_theater_7_10
 Category: Курсы
 Date: 2021-09-07
-Image: {photo}music_theatre_7_10/avatar.jpg
-Gallery: {photo}/music_theatre_7_10
+Image: {photo}music_theater_7_10/avatar.jpg
+Gallery: {photo}/music_theater_7_10
 Age: 7
 Status: draft
 

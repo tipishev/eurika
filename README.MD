@@ -3,12 +3,13 @@ https://tipishev.github.io/eurika
 # TODO
 
 [x] 3 theater studios above art and Abyrvalg from email + images from email
+[x] fix Android gallery
+[x] consistent theat*er*
+[x] 10-14 remove image from card, replace with another
 [ ] Format and cross-link theaters' content
 [ ] place, day, time in card, under header, before text
 [ ] teachers: http://eurika.se/home/about/teachers
-[ ] 10-14 remove image from card, replace with another
 [ ] Gallery for art studio
-[ ] consistent theat*er*
 
 ## 2021-11-14
 
@@ -25,7 +26,6 @@ https://tipishev.github.io/eurika
 [x] Club reviews next to gallery
 
 [ ] optional caroussel JS/CSS loading
-[ ] fix Android gallery
 [x] main gallery study pics
 [x] galleries with course names
 [x] Swedish page in the end
@@ -37,6 +37,6 @@ https://tipishev.github.io/eurika
 [x] Top picture carrousel
 [-] deduplicate schedule
 [x] Swedish page
-[x] Russian include in course 10-14, same for music/theatre
+[x] Russian include in course 10-14, same for music/theater
 [x] Sort by age
 [x] Readable font
