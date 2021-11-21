@@ -10,6 +10,7 @@ DEFAULT_LANG = 'ru'
 DEFAULT_PAGINATION = False
 TYPOGRIFY = True
 THEME = 'theme'
+STATIC_PATHS = ['images']
 
 PLUGINS = ['photos']
 

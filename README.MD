@@ -6,7 +6,7 @@ https://tipishev.github.io/eurika
 [x] fix Android gallery
 [x] consistent theat*er*
 [x] 10-14 remove image from card, replace with another
-[ ] Format and cross-link theaters' content
+[x] Format and cross-link theaters' content
 [ ] place, day, time in card, under header, before text
 [ ] teachers: http://eurika.se/home/about/teachers
 [ ] Gallery for art studio
