@@ -4,10 +4,11 @@ Category: Студии
 Date: 2021-07-21
 Image: {photo}theater_kids/avatar.jpg
 
-Наши группы:
-
-* Группа 5 - 8 лет. Среда (T-Rådhuset).
-* Группа 7 - 11 лет. Воскресенье (T-Fridhemsplan).
+> * Группа 5-8 лет
+> * Среда ![Metro]({static}/images/metro.png) Rådhuset
+> * ---
+> * Группа 7-11 лет
+> * Воскресенье ![Metro]({static}/images/metro.png) Fridhemsplan.
 
 Дети старше 12 лет занимаются [в молодёжной студии ]({filename}./theater_youth.md).
 
