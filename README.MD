@@ -2,14 +2,23 @@ https://tipishev.github.io/eurika
 
 # TODO
 
+[ ] teachers: http://eurika.se/home/about/teachers
+[ ] Gallery for art studio
+[ ] procedure for content update
+
+
+# 2021-12-05
+[ ] update photos 
+[ ] publish to eurika.se
+
+# 2021-11-25
+
 [x] 3 theater studios above art and Abyrvalg from email + images from email
 [x] fix Android gallery
 [x] consistent theat*er*
 [x] 10-14 remove image from card, replace with another
 [x] Format and cross-link theaters' content
-[ ] place, day, time in card, under header, before text
-[ ] teachers: http://eurika.se/home/about/teachers
-[ ] Gallery for art studio
+[x] place, day, time in card, under header, before text
 
 ## 2021-11-14
 
