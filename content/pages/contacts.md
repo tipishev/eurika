@@ -27,4 +27,4 @@ Drottningholmsvägen 37, станция метро: Fridhemsplan
 
 По телефону <a href="tel:+46704568553">0704568553</a>
 
-По электронной почте <a href="mailto: eurika09@gmail.com">eurika09@gmail.com</a>
+По электронной почте <a href="mailto: eurikaklubb.info@gmail.com">eurikaklubb.info@gmail.com</a>
