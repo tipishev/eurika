@@ -8,7 +8,7 @@ https://tipishev.github.io/eurika
 [x] 4.В группах для 2-3 kет и 3-4 лет исправить место проведения занятий со Stora Essingen на Radhuset. Внутри: Adress: Pilgatan 21, T-b Rådhuset
 [x] 5. ВАУ для 8-10 лет поставить аваторку фото из галлереи, где дети сидят на столе, а за нми экран
 [x] 6. Квэст: Новые даты: 10 апреля "Большое космическое путешествие".
-[ ] Забыла: в контактах email eurikaklubb.info@gmail.com
+[x] Забыла: в контактах email eurikaklubb.info@gmail.com
 
 [ ] teachers: http://eurika.se/home/about/teachers
 [ ] Gallery for art studio
