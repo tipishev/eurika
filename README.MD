@@ -1,6 +1,6 @@
 https://tipishev.github.io/eurika
 
-# TODO
+# TODO aka Backlog
 
 [ ] 1.Я посмотрела сайт на большом экране и мне он показался не красочным. Возможно ли сделать фон цветным и название курсов тоже?Очень мелкий текст.
 [ ] 2. Расписание: Почему-то вижу только расписание нескольких групп, а не все
@@ -14,10 +14,13 @@ https://tipishev.github.io/eurika
 [ ] Gallery for art studio
 [ ] procedure for content update
 
+# 2022-02-20
+[ ] Dropdown POC
+
 
 # 2021-12-05
-[ ] update photos 
-[ ] publish to eurika.se
+[x] update photos 
+[x] publish to eurika.se
 
 # 2021-11-25
 
