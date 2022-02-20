@@ -3,8 +3,6 @@
 
 AUTHOR = 'admin'
 SITENAME = 'Eurika.se'
-SITEURL = ''
-PATH = 'content'
 TIMEZONE = 'Europe/Stockholm'
 DEFAULT_LANG = 'ru'
 DEFAULT_PAGINATION = False
