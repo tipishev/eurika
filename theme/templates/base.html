@@ -37,6 +37,8 @@
 
         <header id="banner" class="body">
 
+          <nav>
+
           <!-- Dropdown POC -->
 
           <div class="dropdown">
@@ -48,13 +50,31 @@
             </div>
           </div>
 
+          <div class="dropdown">
+            <button class="dropdown-button">Курсы</button>
+            <div class="dropdown-content">
+              <a href="#">2-3 года</a>
+              <a href="#">3-4 года</a>
+              <a href="#">4-5 лет</a>
+              <a href="#">5-6 лет</a>
+              <a href="#">6-7 лет</a>
+              <a href="#">7-8 лет</a>
+              <a href="#">8-10 лет</a>
+              <a href="#">10-14 лет</a>
+            </div>
+          </div>
+
+          </nav>
+
+
           <!-- Navbar -->
+
+            {#
           <nav>
             <ul>
 
               <!-- pages -->
               {% for slug in PAGE_ORDER %}
-              {# yeah, yeah O(n^2) complexity boo-hoo :'[ #}
                 {% for p in pages %}
                   {% if p.slug == slug %}
                   <li {% if p == page %}class="active"{% endif %}>
@@ -68,9 +88,10 @@
               {% for cat, null in categories %}
               <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
               {% endfor %}
-
             </ul>
           </nav>
+            #}
+
         </header>
 
         <!-- meant to be replaced in child templates -->
