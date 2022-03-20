@@ -1,4 +1,4 @@
-pelican==4.6.0
+pelican==4.7.2
 Markdown==3.3.4
 typogrify==2.0.7
 pelican-photos==1.0.0

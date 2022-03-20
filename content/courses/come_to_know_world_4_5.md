@@ -2,9 +2,10 @@ Title: Курс «Мы познаем мир» для детей 4-5 лет
 Slug: come_to_know_world_4_5
 Category: Курсы
 Date: 2021-09-04
-Age: 4
+Age: 4-5 лет
 Image: {photo}come_to_know_world_4_5/avatar.jpg
 Gallery: {photo}/come_to_know_world_4_5
+Tags: 4-5 лет
 
 > * Воскресенье 09:30-11:05 или 13:05-14:40
 > * ![Metro]({static}/images/metro.png) Fridhemsplan

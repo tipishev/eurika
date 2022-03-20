@@ -45,27 +45,27 @@
             <button class="dropdown-button">О клубе</button>
             <div class="dropdown-content">
               <a href="#">Педагоги</a>
-              <a href="#">Правила</a>
-              <a href="#">Расписание</a>
+              <a href="{{ SITEURL }}/pages/rules">Правилаpages/schedule</a>
+              <a href="{{ SITEURL }}/pages/schedule">Расписание</a>
             </div>
           </div>
 
           <div class="dropdown">
             <button class="dropdown-button">Курсы</button>
             <div class="dropdown-content">
-              <a href="#">2-3 года</a>
-              <a href="#">3-4 года</a>
-              <a href="#">4-5 лет</a>
-              <a href="#">5-6 лет</a>
-              <a href="#">6-7 лет</a>
-              <a href="#">7-8 лет</a>
-              <a href="#">8-10 лет</a>
-              <a href="#">10-14 лет</a>
+              <a href="{{ SITEURL }}/tag/4-5-let.html">4-5 лет</a>
+              <a href="{{ SITEURL }}/tag/6-7-let.html">6-7 лет</a>
+              <a href="{category}courses">динамичный</a>
             </div>
           </div>
 
+
+
           </nav>
 
+        {% for tag in tags %}
+        {{ tag }}
+        {% endfor %}
 
           <!-- Navbar -->
 

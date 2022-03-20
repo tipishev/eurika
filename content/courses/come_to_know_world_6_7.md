@@ -2,9 +2,10 @@ Title: Курс «Мы познаем мир» для детей 6-7 лет
 Slug: come_to_know_world_6_7
 Category: Курсы
 Date: 2021-09-06
-Age: 6
+Age: 6-7 лет
 Image: {photo}come_to_know_world_6_7/avatar.jpg
 Gallery: {photo}/come_to_know_world_6_7
+Tags: 6-7 лет
 
 > * Воскресенье 12:30-14:25
 > * ![Metro]({static}/images/metro.png) Fridhemsplan
