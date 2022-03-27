@@ -5,6 +5,7 @@ Date: 2021-09-07
 Age: 7
 Image: {photo}come_to_know_world_7_8/avatar.jpg
 Gallery: {photo}/come_to_know_world_7_8
+Tags: 7-8 лет
 
 > * Воскресенье 10:35-12:55
 > * ![Metro]({static}/images/metro.png) Fridhemsplan

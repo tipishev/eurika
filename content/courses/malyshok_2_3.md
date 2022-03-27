@@ -5,6 +5,7 @@ Date: 2021-09-02
 Image: {photo}malyshok_2_3/avatar.jpg
 Gallery: {photo}/malyshok_2_3
 Age: 2
+Tags: 2-3 года
 
 > * Суббота 09:15-10:15
 > * ![Metro]({static}/images/metro.png) Rådhuset

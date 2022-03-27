@@ -39,8 +39,6 @@
 
           <nav>
 
-          <!-- Dropdown POC -->
-
           <div class="dropdown">
             <button class="dropdown-button">О клубе</button>
             <div class="dropdown-content">
@@ -53,19 +51,13 @@
           <div class="dropdown">
             <button class="dropdown-button">Курсы</button>
             <div class="dropdown-content">
-              <a href="{{ SITEURL }}/tag/4-5-let.html">4-5 лет</a>
-              <a href="{{ SITEURL }}/tag/6-7-let.html">6-7 лет</a>
-              <a href="{category}courses">динамичный</a>
+              {% for tag, _articles in tags %}
+                <a href="{{ tag.slug }}">{{ tag }}</a>
+              {% endfor %}
             </div>
           </div>
 
-
-
           </nav>
-
-        {% for tag in tags %}
-        {{ tag }}
-        {% endfor %}
 
           <!-- Navbar -->
 

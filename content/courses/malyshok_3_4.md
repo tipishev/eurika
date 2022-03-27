@@ -5,6 +5,7 @@ Date: 2021-09-03
 Age: 3
 Image: {photo}malyshok_3_4/avatar.jpg
 Gallery: {photo}/malyshok_3_4
+Tags: 3-4 года
 
 > * Суббота 10:15-11:15 или 11:20-12:20
 > * ![Metro]({static}/images/metro.png) Rảdhuset

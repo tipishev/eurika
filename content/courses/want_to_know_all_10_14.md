@@ -5,6 +5,7 @@ Date: 2021-09-10
 Age: 10
 Image: {photo}want_to_know_all_10_14/avatar.jpg
 Gallery: {photo}/want_to_know_all_10_14
+Tags: 10-14 лет
 
 > * Воскресенье 10:20-11:50
 > * ![Metro]({static}/images/metro.png) Fridhemsplan

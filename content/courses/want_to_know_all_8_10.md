@@ -5,6 +5,7 @@ Date: 2021-09-08
 Age: 8
 Image: {photo}want_to_know_all_8_10/avatar.jpg
 Gallery: {photo}/want_to_know_all_8_10
+Tags: 8-10 лет
 
 > * Воскресенье 11:05-13:25
 > * ![Metro]({static}/images/metro.png) Fridhemsplan

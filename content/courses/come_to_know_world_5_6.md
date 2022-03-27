@@ -5,6 +5,7 @@ Date: 2021-09-05
 Age: 5
 Image: {photo}come_to_know_world_5_6/avatar.jpg
 Gallery: {photo}/come_to_know_world_5_6
+Tags: 5-6 лет
 
 > * Воскресенье 09:50-11:40 или 11:10-13:00
 > * ![Metro]({static}/images/metro.png) Fridhemsplan
