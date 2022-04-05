@@ -1,2 +1,41 @@
-{% extends "index.html" %}
+{% extends "base.html" %}
 {% block title %}{{ SITENAME }} - {{ tag }}{% endblock %}
+
+{% block content %}
+
+<!-- Courses -->
+<div class="row">
+  <h2>Курсы для возраста {{ tag }}</h2>
+  <div class="12u">
+    <section>
+      {% for article in articles if article.category == "Курсы" %}
+      {% if loop.index0 % 3  == 0 %}
+      <div class="row">
+        {% endif %}
+        <div class="4u">
+          <section class="box">
+            {% if article.photo_image %}
+            <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full">
+              <img src="{{ SITEURL }}/{{ article.photo_image[1] }}" alt=""/>
+            </a>
+            {% endif %}
+            <header>
+              <h3>{{article.title }}</h3>
+            </header>
+            {{ article.summary }}
+            <footer class="actions">
+              <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">
+                ПОДРОБНЕЕ
+              </a>
+            </footer>
+          </section>
+        </div>
+        {% if loop.index % 3  == 0 %}
+      </div>
+      {% endif %}
+      {% endfor %}
+    </section>
+  </div>
+</div>
+
+{% endblock %}
