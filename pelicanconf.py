@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+#  SITEURL = 'http://eurika-se'
 AUTHOR = 'admin'
 SITENAME = 'Eurika.se'
 TIMEZONE = 'Europe/Stockholm'
@@ -11,16 +12,6 @@ THEME = 'theme'
 STATIC_PATHS = ['images']
 
 PLUGINS = ['photos']
-
-PAGE_ORDER = [
-  'home',
-  'about',
-  'schedule',
-  'rules',
-  'contacts',
-  'home_se',
-  'summer_camp',  # uncomment this in April :)
-]
 
 # TODO custom age extractor function for courses
 ARTICLE_ORDER_BY = 'date'

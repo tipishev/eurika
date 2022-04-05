@@ -40,12 +40,15 @@
           <nav>
 
           <div class="dropdown">
+            <a href="{{ index }}" class="dropdown-button">🏠</a>
+          </div>
+
+          <div class="dropdown">
             <button class="dropdown-button">О клубе</button>
             <div class="dropdown-content">
               <a href="#">Педагоги</a>
               <a href="{{ SITEURL }}/pages/rules">Правила</a>
               <a href="{{ SITEURL }}/pages/schedule">Расписание</a>
-              <a href="{page}schedule.url">Расписание</a>
             </div>
           </div>
 
@@ -59,31 +62,6 @@
           </div>
 
           </nav>
-
-          <!-- Navbar -->
-
-            {#
-          <nav>
-            <ul>
-
-              <!-- pages -->
-              {% for slug in PAGE_ORDER %}
-                {% for p in pages %}
-                  {% if p.slug == slug %}
-                  <li {% if p == page %}class="active"{% endif %}>
-                    <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
-                  </li>
-                  {% endif %}
-                {% endfor %}
-              {% endfor %}
-
-              <!-- categories -->
-              {% for cat, null in categories %}
-              <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-              {% endfor %}
-            </ul>
-          </nav>
-            #}
 
         </header>
 
