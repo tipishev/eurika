@@ -43,8 +43,9 @@
             <button class="dropdown-button">О клубе</button>
             <div class="dropdown-content">
               <a href="#">Педагоги</a>
-              <a href="{{ SITEURL }}/pages/rules">Правилаpages/schedule</a>
+              <a href="{{ SITEURL }}/pages/rules">Правила</a>
               <a href="{{ SITEURL }}/pages/schedule">Расписание</a>
+              <a href="{page}schedule.url">Расписание</a>
             </div>
           </div>
 
@@ -52,7 +53,7 @@
             <button class="dropdown-button">Курсы</button>
             <div class="dropdown-content">
               {% for tag, _articles in tags %}
-                <a href="{{ tag.slug }}">{{ tag }}</a>
+              <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
               {% endfor %}
             </div>
           </div>
