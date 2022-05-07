@@ -16,7 +16,7 @@ https://tipishev.github.io/eurika
 
 # 2022-02-20
 [x] Dropdown POC
-[ ] Dynamic Dropdown menu
+[x] Dynamic Dropdown menu
 
 
 # 2021-12-05
