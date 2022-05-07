@@ -9,7 +9,7 @@ DEFAULT_LANG = 'ru'
 DEFAULT_PAGINATION = False
 TYPOGRIFY = True
 THEME = 'theme'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra']
 
 PLUGINS = ['photos']
 
@@ -20,3 +20,7 @@ ARTICLE_ORDER_BY = 'date'
 PHOTO_LIBRARY = 'content/photos'
 PHOTO_ARTICLE = (760, 506, 80)
 PHOTO_THUMB = (150, 100, 70)
+
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
