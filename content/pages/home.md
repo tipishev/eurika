@@ -3,7 +3,7 @@ Slug: home
 URL:
 save_as: index.html
 template: home
-Image: {photo}home/carousel/main.jpg
+Image: {photo}home/carousel/DSC_0334_sverige_horn_hats.jpg
 Gallery: {photo}home/gallery{gallery},{photo}home/carousel{carousel}
 
 ## Новости
