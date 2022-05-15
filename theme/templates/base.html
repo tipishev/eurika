@@ -61,6 +61,17 @@
             </div>
           </div>
 
+          <div class="dropdown">
+            <button class="dropdown-button">Студии</button>
+            <div class="dropdown-content">
+              {% for article in articles %}
+                {% if article.category == 'Студии' %}
+                  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+
           </nav>
 
         </header>
