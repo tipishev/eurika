@@ -1,4 +1,4 @@
-Title: ☀️Летний лагерь☀️
+Title: Летний лагерь
 Slug: summer_camp
 Category: Развлечения
 Date: 2022-05-15
