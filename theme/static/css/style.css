@@ -35,8 +35,10 @@ strong, b
 h1, h2, h3, h4, h5, h6
 {
 	/* color: #252122; */
-	color: MediumSeaGreen;
-	font-weight: 700;
+	color: #4CAF50;
+	font-weight: 800;
+	text-shadow: 1px 1px 1px black;
+
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -137,6 +139,7 @@ article:last-child
 {
 	position: relative;
 	width: auto;
+	padding: 5;
 }
 
 /* Button */
@@ -616,7 +619,7 @@ ul.social li.googleplus:hover	{ background: #ea3723; }
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: darkgrey;
 }
 
 
