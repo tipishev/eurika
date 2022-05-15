@@ -1,5 +1,7 @@
 Title: ☀️Летний лагерь☀️
 Slug: summer_camp
+Category: Развлечения
+Date: 2022-05-15
 Image: {photo}summer_camp/avatar.jpg
 Gallery: {photo}summer_camp
 
