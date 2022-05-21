@@ -4,20 +4,20 @@ https://tipishev.github.io/eurika
 
 # 2022-05-21
 
-[ ] add Teachers page
-[ ] fix wasted vertical space
-[ ] refresh schedule
-[ ] smart SITEURL config "localhost:8000" vs "eurika.se"
-[ ] между друг другом МЕНЮ переключать нельзя, только возвращаться на Главную
+[x] Поменять Музыка Театр 6-7 лет на Музыкатеатр 6-8 лет, 8-10 убрать
+[ ] Хочу все знать 8-10 поменять на ХВС 8-9
+[ ] Хочу все знать 9-10 поменять на ХВС 9-11
+[ ] ХВС 10-14 убрать вообще
+[x] между друг другом МЕНЮ переключать нельзя, только возвращаться на Главную
 [ ] add all photos, see "Список по группам для фото" below
+[ ] add Teachers page (teachers.md)
+[ ] fix wasted vertical space
+[ ] smart SITEURL config "localhost:8000" vs "eurika.se"
 [ ] add reviews to main menu
 [ ] move reviews to the very end on the main
 [ ] bigger font for menu items
 [ ] restore "about" page with "Наш клуб был создан... 'Эврика' закричал Архимед..."
-[ ] Поменять Музыка Театр 6-7 лет на Музыкатеатр 6-8 лет, 8-10 убрать
-[ ] Хочу все знать 8-10 поменять на ХВС 8-9
-[ ] Хочу все знать 9-10 поменять на ХВС 9-11
-[ ] ХВС 10-14 убрать вообще
+[ ] refresh schedule
 
 
 ## Список по группам для фото

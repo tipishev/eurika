@@ -46,7 +46,7 @@
           <div class="dropdown">
             <button class="dropdown-button">О клубе</button>
             <div class="dropdown-content">
-              <a href="#">Педагоги</a>
+              <a href="{{ SITEURL }}/pages/teachers.html">Педагоги</a>
               <a href="{{ SITEURL }}/pages/rules.html">Правила</a>
               <a href="{{ SITEURL }}/pages/schedule.html">Расписание</a>
             </div>
@@ -64,7 +64,7 @@
           <div class="dropdown">
             <button class="dropdown-button">Студии</button>
             <div class="dropdown-content">
-              {% for article in articles %}
+              {% for article in all_articles %}
                 {% if article.category == 'Студии' %}
                   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
                 {% endif %}
@@ -75,7 +75,7 @@
           <div class="dropdown">
             <button class="dropdown-button">Развлечения</button>
             <div class="dropdown-content">
-              {% for article in articles %}
+              {% for article in all_articles %}
                 {% if article.category == 'Развлечения' %}
                   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
                 {% endif %}
