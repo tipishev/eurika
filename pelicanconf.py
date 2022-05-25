@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-#  SITEURL = 'http://eurika.se'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://eurika.se'
+#  SITEURL = 'http://localhost:8000'
 
 AUTHOR = 'admin'
 SITENAME = 'Eurika.se'

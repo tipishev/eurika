@@ -49,13 +49,14 @@
               <a href="{{ SITEURL }}/pages/teachers.html">Педагоги</a>
               <a href="{{ SITEURL }}/pages/rules.html">Правила</a>
               <a href="{{ SITEURL }}/pages/schedule.html">Расписание</a>
+              <a href="{{ SITEURL }}/pages/about.html">О клубе</a>
             </div>
           </div>
 
           <div class="dropdown">
             <button class="dropdown-button">Курсы</button>
             <div class="dropdown-content">
-              {% for tag, _articles in tags %}
+              {% for tag, _articles in tags | sort %}
               <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
               {% endfor %}
             </div>
@@ -64,8 +65,38 @@
           <div class="dropdown">
             <button class="dropdown-button">Студии</button>
             <div class="dropdown-content">
+
+              {# looping through articles and all_articles because one of them is always empty #}
+
+              {% for article in articles %}
+                {% if article.category == 'Студии' %}
+                  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                {% endif %}
+              {% endfor %}
+
               {% for article in all_articles %}
                 {% if article.category == 'Студии' %}
+                  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                {% endif %}
+              {% endfor %}
+
+            </div>
+          </div>
+
+          <div class="dropdown">
+            <button class="dropdown-button">Развлечения</button>
+            <div class="dropdown-content">
+
+              {# looping through articles and all_articles because one of them is always empty #}
+
+              {% for article in articles %}
+                {% if article.category == 'Развлечения' %}
+                  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                {% endif %}
+              {% endfor %}
+
+              {% for article in all_articles %}
+                {% if article.category == 'Развлечения' %}
                   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
                 {% endif %}
               {% endfor %}
@@ -73,14 +104,9 @@
           </div>
 
           <div class="dropdown">
-            <button class="dropdown-button">Развлечения</button>
-            <div class="dropdown-content">
-              {% for article in all_articles %}
-                {% if article.category == 'Развлечения' %}
-                  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-                {% endif %}
-              {% endfor %}
-            </div>
+            <button class="dropdown-button">
+            <a href="{{ SITEURL }}/pages/reviews.html">Отзывы Родителей</a>
+            </button>
           </div>
 
           </nav>

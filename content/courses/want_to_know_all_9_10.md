@@ -1,11 +1,11 @@
-Title: Курс «Хочу все знать» для детей 9-10 лет
-Slug: want_to_know_all_9_10
+Title: Курс «Хочу все знать» для детей 9-11 лет
+Slug: want_to_know_all_9_11
 Category: Курсы
 Date: 2021-09-09
 Age: 9
-Image: {photo}want_to_know_all_9_10/avatar.jpg
-Gallery: {photo}/want_to_know_all_9_10
-Tags: 9-10 лет
+Image: {photo}want_to_know_all_9_11/avatar.jpg
+Gallery: {photo}/want_to_know_all_9_11
+Tags: 9-11 лет
 
 > * Воскресенье 10:20-12:50
 > * ![Metro]({static}/images/metro.png) Fridhemsplan

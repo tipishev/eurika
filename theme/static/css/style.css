@@ -586,7 +586,7 @@ ul.social li.googleplus:hover	{ background: #ea3723; }
   background-color: #4CAF50;
   color: white;
   padding: 16px;
-  font-size: 16px;
+  font-size: 18px;
   border: none;
   cursor: pointer;
 }
@@ -606,6 +606,7 @@ ul.social li.googleplus:hover	{ background: #ea3723; }
 }
 
 .dropdown-content a {
+  font-size: 1.5em;
   color: black;
   padding: 12px 16px;
   text-decoration: none;
