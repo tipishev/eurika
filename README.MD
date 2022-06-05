@@ -2,6 +2,15 @@ https://tipishev.github.io/eurika
 
 # Backlog
 
+# 2022-06-05
+
+[ ] поменять фон
+[ ] добавить фотографии учителей
+[ ] уменьшить вертикальные отступы
+[ ] обновить расписание
+[ ] restore dropotron, see warnings
+[ ] smart SITEURL config "localhost:8000" vs "eurika.se"
+
 # 2022-05-21
 
 [x] между друг другом МЕНЮ переключать нельзя, только возвращаться на Главную
@@ -14,15 +23,7 @@ https://tipishev.github.io/eurika
 [x] добавить отзывы в главное меню
 [x] переместить отзывы вниз главной страницы
 [x] добавить все фото из письма "Список по группам для фото"
-[ ] поменять фон
 [x] добавить текст на страницу с учителями
-[ ] добавить фотографии учителей
-[ ] уменьшить вертикальные отступы
-[ ] обновить расписание
-
-[ ] restore dropotron, see warnings
-[ ] smart SITEURL config "localhost:8000" vs "eurika.se"
-
 
 ## Список по группам для фото
 # ссылка на все фото https://disk.yandex.ru/d/A5jZsjTAF4pBZw
@@ -86,7 +87,6 @@ https://tipishev.github.io/eurika
 # 2022-02-20
 [x] Dropdown POC
 [x] Dynamic Dropdown menu
-
 
 # 2021-12-05
 [x] update photos 
