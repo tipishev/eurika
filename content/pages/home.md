@@ -6,7 +6,7 @@ template: home
 Image: {photo}home/carousel/DSC_0334_sverige_horn_hats.jpg
 Gallery: {photo}home/gallery{gallery},{photo}home/carousel{carousel}
 
-## Новости
+## Новости / News
 
 ### 2022-06-22
 
@@ -15,3 +15,9 @@ Gallery: {photo}home/gallery{gallery},{photo}home/carousel{carousel}
 
 Начало нового учебного года **28 августа**.
 
+---
+
+The club organises excursions and quests during whole summer.
+Schedule: [https://www.facebook.com/groups/314385732226804](https://www.facebook.com/groups/314385732226804)
+
+The new school year starts on **August 28th**.
