@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-#  SITEURL = 'http://eurika.se'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://eurika.se'
+#  SITEURL = 'http://localhost:8000'
 
 AUTHOR = 'admin'
 SITENAME = 'Eurika.se'
@@ -23,6 +23,4 @@ PHOTO_LIBRARY = 'content/photos'
 PHOTO_ARTICLE = (760, 506, 80)
 PHOTO_THUMB = (150, 100, 70)
 
-EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'}
-}
+EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'favicon.ico'}}

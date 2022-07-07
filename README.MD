@@ -8,7 +8,6 @@ https://tipishev.github.io/eurika
 [ ] добавить фотографии учителей
 [ ] уменьшить вертикальные отступы
 [ ] обновить расписание
-[ ] restore dropotron, see warnings
 [ ] smart SITEURL config "localhost:8000" vs "eurika.se"
 
 # 2022-05-21
