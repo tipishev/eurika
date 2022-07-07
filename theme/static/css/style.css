@@ -22,7 +22,7 @@ body
 	font-family: 'Roboto', 'Georgia', serif;
 	font-weight: 300;
 	background: #252122;
-	background-image: url('images/bg03.png');
+	background-image: url('images/bg04.jpg');
 	color: black;
 }
 
@@ -642,7 +642,7 @@ ul.social li.googleplus:hover	{ background: #ea3723; }
 	top: 0;
 	left: 0;
 	width: 100%;
-	background: url('images/bg03.png');
+	background: url('images/bg04.jpg');
 	z-index: 0;
 	opacity: 0.5;
 	box-shadow: inset 0px -60px 40px 0px #fff;
@@ -670,7 +670,7 @@ ul.social li.googleplus:hover	{ background: #ea3723; }
 #main-wrapper
 {
 	position: relative;
-	background: #f7f7f7 url('images/bg03.png');
+	background: #f7f7f7 url('images/bg04.jpg');
 }
 
 #main-wrapper:before
@@ -692,7 +692,7 @@ ul.social li.googleplus:hover	{ background: #ea3723; }
 
 #main-wrapper .major h2
 {
-	background: #f7f7f7 url('images/bg03.png');
+	background: #f7f7f7 url('images/bg04.jpg');
 }
 
 #footer-wrapper
