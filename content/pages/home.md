@@ -11,6 +11,7 @@ Gallery: {photo}home/gallery{gallery},{photo}home/carousel{carousel}
 ### 2022-06-22
 
 Все лето в клубе проводятся экскурсии и квэсты.
+
 Расписание: [https://www.facebook.com/groups/314385732226804](https://www.facebook.com/groups/314385732226804)
 
 Начало нового учебного года **28 августа**.
@@ -18,6 +19,7 @@ Gallery: {photo}home/gallery{gallery},{photo}home/carousel{carousel}
 ---
 
 The club organises excursions and quests during whole summer.
+
 Schedule: [https://www.facebook.com/groups/314385732226804](https://www.facebook.com/groups/314385732226804)
 
 The new school year starts on **August 28th**.
