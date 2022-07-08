@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-SITEURL = 'https://tipishev.github.io/eurika/'
-#  SITEURL = 'http://eurika.se'
+#  SITEURL = 'https://tipishev.github.io/eurika/'
+SITEURL = 'https://eurika.se'
 #  SITEURL = 'http://localhost:8000'
 
 AUTHOR = 'admin'
