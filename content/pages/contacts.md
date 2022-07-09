@@ -1,5 +1,6 @@
 Title: Контакты
 Slug: contacts
+Date: 2021-06-28
 
 # КЛУБ ЭВРИКА
 
