@@ -1,16 +1,16 @@
-Title: Театральная студия «ТеатЭврика» для детей 5-11 лет
+Title: Театральная студия Татьяны Павловой для детей 4-7 лет
 Slug: theater_kids
 Category: Студии
 Date: 2021-07-21
 Image: {photo}theater_kids/avatar.jpg
 
-> * Группа 5-8 лет
-> * Среда ![Metro]({static}/images/metro.png) Rådhuset
+> * Группа 4-7 лет
+> * Среда ![Metro]({static}/images/metro.png) Solna
 > * ---
 > * Группа 7-11 лет
-> * Воскресенье ![Metro]({static}/images/metro.png) Fridhemsplan.
+> * Воскресенье ![Metro]({static}/images/metro.png) Fridhemsplan
 
-Дети старше 12 лет занимаются [в молодёжной студии ]({filename}./theater_youth.md).
+Дети старше 12 лет занимаются [в молодёжной студии]({filename}./theater_youth.md).
 
 Детская театральная студия «ТеатЭврика» открыта в 2015 году при Мультикультурной объединяющей ассоциации “ЭВРИКА” в Стокгольме (Multicultural Uniting SociEty EUREKA), 802450-3040.  Руководитель студии Татьяна Павлова.
 
@@ -18,13 +18,33 @@ Image: {photo}theater_kids/avatar.jpg
 
 В «ТеатЭврике» мы создаём пространство для самовыражения и творчества. Наши занятия - это весёлые игры, упражнения в сценическом искусстве, знакомство с хорошей литературой, работа над речью, пластикой, ритмикой, постановка спектаклей, совместные проекты с театром «АБЫРВАЛГ!», участие в фестивалях. В «ТеатЭврике» всегда интересно, весело, дружно и есть чему поучиться!
 
-ПЕРИОД ОБУЧЕНИЯ: август 2021 – май 2022
+# МЛАДШАЯ ГРУППА: 4 - 7 ЛЕТ.
 
-Стоимость учебного года 2500 крон.
+МЕСТОРАСПОЛОЖЕНИЕ: Solna
+
+## РАСПИСАНИЕ:
+
+* Младшая группа 1 (4 - 7 лет): Понедельник, 17:00 - 17:50.
+* Младшая группа 2 (4 - 7 лет): Понедельник, 18:10 - 19:00.
+* ПЕРИОД ОБУЧЕНИЯ: сентябрь 2022 – май 2023.
+* СТОИМОСТЬ: 3400 крон
+
+# СРЕДНЯЯ ГРУППА: 7 - 11 ЛЕТ.
+МЕСТОРАСПОЛОЖЕНИЕ: Fridhemsplan
+
+## РАСПИСАНИЕ:
+* Средняя группа 1: Воскресенье, 11:15 - 12:15.
+* Средняя группа 2: Воскресенье, 14:45 - 15:45.
+* ПЕРИОД ОБУЧЕНИЯ: Сентябрь 2022 – май 2023.
+* СТОМОСТЬ: 3200 крон;
 
 Добро пожаловать!
 
-* <a href="mailto: abyrvalginfo@gmail.com">abyrvalginfo@gmail.com</a>
+* Руководитель студии Татьяна Павлова
+0737168212, tatpavsto@gmail.com,
+
+* <a href="mailto:tatpavsto@gmail.com">tatpavsto@gmail.com</a>
 * <a href="tel:+46737168212">0737168212</a>
-* <a href="https://www.facebook.com/TeatEureka">https://www.facebook.com/TeatEureka</a>
-* Instagram: teateureka
+* <a href="https://www.facebook.com/Tea.TP.Stockholm.Ru">facebook.com/Tea.TP.Stockholm.Ru</a>
+* <a href="https://www.instagram.com/tea.tp.stockholm.ru">instagram.com/tea.tp.stockholm.ru</a>
+* <a href="https://www.nortic.se/dagny/organizer/1440">Наша афиша и билеты</a>
