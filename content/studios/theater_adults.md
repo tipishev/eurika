@@ -1,13 +1,12 @@
-Title: Театральная студия для взрослых
+Title: Театральная студия Татьяны Павловой для взрослых
 Slug: theater_adults
 Category: Студии
 Date: 2021-07-23
 Image: {photo}theater_adults/avatar.jpg
 
 > * Группы:
-> * Вторник ![Metro]({static}/images/metro.png) Odenplan
-> * Среда ![Metro]({static}/images/metro.png) Rådhuset
-> * Воскресенье ![Metro]({static}/images/metro.png) Fridhemsplan.
+> * Среда 18:00 - 20:00 ![Metro]({static}/images/metro.png) Odenplan
+> * Воскресенье 16:15 - 18:15 ![Metro]({static}/images/metro.png) Fridhemsplan.
 
 Театр – это прекрасное пространство, где можно говорить о проблемах и искать решения, делиться радостью и болью, ставить вопросы и пытаться найти ответы. Это место, где мы дышим, говорим о сокровенном и творим в команде единомышленников.
 
@@ -15,21 +14,21 @@ Image: {photo}theater_adults/avatar.jpg
 
 Занятия в театральной студии - это упражнения в сценическом искусстве, работа над речью, пластикой, ритмикой, смехотерапия, анализ драматургии, постановка и показ спектаклей.
 
-*  Продолжительность курса сентябрь 2021- май 2022.
-*  Стоимость курса 3000 крон.
-*  Стоимость пробного занятия для новых участников 150 крон. Для остальных -
-входит в оплату курса.
+# ВЗРОСЛАЯ ГРУППА: 18 – 118 ЛЕТ.
 
-*  Наши группы:
-   <ul style="list-style-type: square;">
-   <li>вторник (Odenplan)</li>
-   <li>среда (Rådhuset)</li>
-   <li>воскресенье (Fridhemsplan)</li>
-   </ul>
-*  Drop-in занятие 150 крон.
+## РАСПИСАНИЕ:
 
-Запись на занятия и дополнительная информация:
+* Группа 1: Среда, 18:00 - 20:00, Odenplan.
+* Группа 2: Воскресенье, 16:15 - 18:15, Fridhemsplan.
+* ПЕРИОД ОБУЧЕНИЯ: Сентябрь 2022 – май 2023.
+* СТОИМОСТЬ: 3500 крон.
 
+Добро пожаловать!
+
+* Руководитель студии Татьяна Павлова
+
+* <a href="mailto:tatpavsto@gmail.com">tatpavsto@gmail.com</a>
 * <a href="tel:+46737168212">0737168212</a>
-* <a href="mailto: abyrvalginfo@gmail.com">abyrvalginfo@gmail.com</a>
-* <a href="https://www.facebook.com/TeatEureka">https://www.facebook.com/TeatEureka</a>
+* <a href="https://www.facebook.com/Tea.TP.Stockholm.Ru" target="_blank">facebook.com/Tea.TP.Stockholm.Ru</a>
+* <a href="https://www.instagram.com/tea.tp.stockholm.ru" target="_blank">instagram.com/tea.tp.stockholm.ru</a>
+* <a href="https://www.nortic.se/dagny/organizer/1440">Наша афиша и билеты</a>
