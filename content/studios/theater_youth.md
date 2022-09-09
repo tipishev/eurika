@@ -17,17 +17,24 @@ Image: {photo}theater_youth/avatar.jpg
 
 В «ТеатЭврике» всегда интересно, весело, дружно и есть чему поучиться!
 
-* Время занятий 12:00 – 14:15.
-* Месторасположение: Fridhemsplan.
-* Период обучения: август 2021 – май 2022.
-* Стоимость учебного года 4800 крон.
+# МОЛОДЁЖНАЯ ГРУППА: 12 - 17 ЛЕТ
+
+МЕСТОРАСПОЛОЖЕНИЕ: Fridhemsplan
+
+## РАСПИСАНИЕ
+
+* Воскресенье, 12:15 - 14:30.
+* ПЕРИОД ОБУЧЕНИЯ: Сентябрь 2022 – май 2023.
+* СТОИМОСТЬ: 4800 крон.
 
 Дети младше 12 лет занимаются [в детской студии]({filename}./theater_kids.md).
 
 Добро пожаловать!
 
-* <a href="mailto: abyrvalginfo@gmail.com">abyrvalginfo@gmail.com</a>
-* <a href="tel:+46737168212">0737168212</a>
-* <a href="https://www.facebook.com/TeatEureka">https://www.facebook.com/TeatEureka</a>
-* Instagram: teateureka
+* Руководитель студии Татьяна Павлова
 
+* <a href="mailto:tatpavsto@gmail.com">tatpavsto@gmail.com</a>
+* <a href="tel:+46737168212">0737168212</a>
+* <a href="https://www.facebook.com/Tea.TP.Stockholm.Ru" target="_blank">facebook.com/Tea.TP.Stockholm.Ru</a>
+* <a href="https://www.instagram.com/tea.tp.stockholm.ru" target="_blank">instagram.com/tea.tp.stockholm.ru</a>
+* <a href="https://www.nortic.se/dagny/organizer/1440">Наша афиша и билеты</a>
