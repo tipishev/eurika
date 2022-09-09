@@ -36,15 +36,14 @@ Image: {photo}theater_kids/avatar.jpg
 * Средняя группа 1: Воскресенье, 11:15 - 12:15.
 * Средняя группа 2: Воскресенье, 14:45 - 15:45.
 * ПЕРИОД ОБУЧЕНИЯ: Сентябрь 2022 – май 2023.
-* СТОМОСТЬ: 3200 крон;
+* СТОИМОСТЬ: 3200 крон;
 
 Добро пожаловать!
 
 * Руководитель студии Татьяна Павлова
-0737168212, tatpavsto@gmail.com,
 
 * <a href="mailto:tatpavsto@gmail.com">tatpavsto@gmail.com</a>
 * <a href="tel:+46737168212">0737168212</a>
-* <a href="https://www.facebook.com/Tea.TP.Stockholm.Ru">facebook.com/Tea.TP.Stockholm.Ru</a>
-* <a href="https://www.instagram.com/tea.tp.stockholm.ru">instagram.com/tea.tp.stockholm.ru</a>
+* <a href="https://www.facebook.com/Tea.TP.Stockholm.Ru" target="_blank">facebook.com/Tea.TP.Stockholm.Ru</a>
+* <a href="https://www.instagram.com/tea.tp.stockholm.ru" target="_blank">instagram.com/tea.tp.stockholm.ru</a>
 * <a href="https://www.nortic.se/dagny/organizer/1440">Наша афиша и билеты</a>
